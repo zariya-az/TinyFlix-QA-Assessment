@@ -2,6 +2,6 @@
 My QA/Software Tester assessment submission for Testpress Tech Labs LLP.
 
 Bug_Report_TinyFlix_HainunZariya.pdf
-Test_Plan_TinyFlix_HainunZariya.pdf
 Accessibility_Report_TinyFlix_HainunZariya.pdf
 Performance_Report_TinyFlix_HainunZariya.pdf
+Test_Plan_TinyFlix_HainunZariya.pdf
